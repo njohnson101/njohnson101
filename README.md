@@ -20,6 +20,6 @@ Hello! I'm Nolan.
 
 🌱 Currently, I am working on building practical skills for data science, including SQL and R!
 
-📫 Please reach out to me at any of the following sources!
-Email: [njohnson10@uchicago.edu](mailto:njohnson10@uchicago.edu)
+📫 Please reach out to me at any of the following sources!\
+Email: [njohnson10@uchicago.edu](mailto:njohnson10@uchicago.edu)\
 LinkeIn: [profile](www.linkedin.com/in/nolan-johnson-325a87335)
