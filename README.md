@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello! I'm Nolan.
+
+🎓 I'm a first year undergraduate student in the college at the University of Chicago. I plan to complete a double major in Computational and Applied Mathematics, and Economics with Specialization in Data Science.
+🌱 Currently, I am working on building practical skills for data science, including SQL and R!
+
+
+📫 Please reach out to me at any of the following sources!
+Email: [njohnson10@uchicago.edu](mailto:njohnson10@uchicago.edu)
+LinkeIn: [profile](www.linkedin.com/in/nolan-johnson-325a87335)
