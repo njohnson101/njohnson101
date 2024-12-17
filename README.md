@@ -22,4 +22,4 @@ Hello! I'm Nolan.
 
 📫 Please reach out to me at any of the following sources!\
 Email: [njohnson10@uchicago.edu](mailto:njohnson10@uchicago.edu)\
-LinkedIn: [profile](www.linkedin.com/in/nolan-johnson-325a87335)
+LinkedIn: [www.linkedin.com/in/nolan-johnson-325a87335](www.linkedin.com/in/nolan-johnson-325a87335)
