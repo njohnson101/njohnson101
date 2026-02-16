@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Hello! I'm Nolan.
 
 🎓 I'm a second  year undergraduate student in the college at the University of Chicago. I plan to complete a double major in Computational and Applied Mathematics & Economics with Specialization in Data Science.\
-🔭 I am proficient in python, java, sql, latex, and lua!\
+🔭 I am proficient in python, java, sql, and lua\
 🌱 Currently, I am working on AI upskilling!
 
 📫 Please reach out to me at any of the following sources!\
